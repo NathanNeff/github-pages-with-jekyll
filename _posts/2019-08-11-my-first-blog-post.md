@@ -1,6 +1,6 @@
 ---
 title: "YOUR-TITLE"
-date 2019-08-11
+date: 2019-08-11
 ---
 
 # Dark Side

@@ -1,7 +1,7 @@
 title: Title 2
 author: Nathan Neff
 email: nate@nateneff.com
-theme jekyll-theme-minimal
+theme: jekyll-theme-minimal
 description: > # this means to ignore newlines until "baseurl:"
   Description is here
 
